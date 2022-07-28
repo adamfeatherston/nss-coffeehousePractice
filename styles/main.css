@@ -1,0 +1,29 @@
+.pageHeader{
+    font-style: inherit;
+    font-size: x-large;
+    font: bold;
+    color: saddlebrown;
+    display: flex;
+    justify-content: center;
+}
+.shop{
+    color: orange;
+    flex-basis: 12%;
+    border: 1px dashed green;
+    padding: 0em;
+    margin-top: 0em;
+    margin-left: 00.5em;
+    margin-right: 1em;
+    margin-bottom: 0em;
+    padding-top: 0.2em;
+    padding-left: 0em;
+    padding-right: 10em;
+    padding-bottom: 00.2em;
+
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0em;
+ }
